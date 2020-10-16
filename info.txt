@@ -1,0 +1,2 @@
+1) Postman Folder: "Files-via-Api [VSCode]"
+2) Using the "fileDownloadUri" of reponse, content of the file could be viewed
